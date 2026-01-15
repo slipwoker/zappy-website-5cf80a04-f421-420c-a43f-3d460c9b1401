@@ -1,0 +1,59 @@
+# aro Perfume — Generative Engine Optimization Map
+
+> A קוסמטיקה ובשמים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://aro-perfume-5cf80a04.zappy5.app
+גלו ניחוחות יוקרה במחיר משתלם עם aro magnet perfume - בשמים ניש איכותיים בישראל. מגוון בשמים מיוחדים לכל אירוע והזדמנות.
+
+### המוצרים שלנו
+https://aro-perfume-5cf80a04.zappy5.app/products
+גלו את מגוון המוצרים של aro magnet perfume - בשמים ניש איכותיים בישראל במחיר משתלם. קולקציות יוקרתיות לכל אירוע והזדמנות.
+
+### אודות
+https://aro-perfume-5cf80a04.zappy5.app/about
+הכירו את aro Perfume - המומחים לבושם ניש איכותי בישראל. אנחנו מביאים לכם בושם יוקרתי במחיר משתלם עם שירות אישי ומקצועי.
+
+### צור קשר
+https://aro-perfume-5cf80a04.zappy5.app/contact
+צרו קשר עם aro Perfume לייעוץ אישי בבחירת בושם ניש איכותי בישראל. אנחנו כאן לעזור לכם למצוא את הניחוח המושלם במחיר משתלם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://aro-perfume-5cf80a04.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://aro-perfume-5cf80a04.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://aro-perfume-5cf80a04.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About aro Perfume
+aro Perfume is a business in the קוסמטיקה ובשמים industry.
+
+## Target Audience
+- חובבי ניחוחות יוקרה
+- צעירים מקצוענים עירוניים
+- קונים מתנות
+
+## Industry
+קוסמטיקה ובשמים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://aro-perfume-5cf80a04.zappy5.app/sitemap.xml
+- **Robots.txt**: https://aro-perfume-5cf80a04.zappy5.app/robots.txt
